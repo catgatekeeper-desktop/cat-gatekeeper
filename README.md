@@ -97,5 +97,3 @@ Here is an example of how detailed you can configure the app:
     }
   ]
 }
-
-----
